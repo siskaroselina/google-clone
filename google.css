@@ -1,0 +1,67 @@
+body {
+
+}
+
+.top {
+	display: inline-block;
+	padding-top: : 15px;
+	width: 20%;
+	margin-left: 80% ;
+}
+
+
+.top_a{
+	display:inline-block;
+	padding-right: 5px;
+	padding-left:5px;
+}
+
+.top1 {
+	display: inline-block;
+	padding-top: 15px;
+	width: 10%;
+}
+
+.centre {
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.centre1 {
+	display: block;
+	margin: auto;
+	width: 60%;
+}
+
+
+.centre2 {
+	display: block;
+	margin: auto;
+	padding:7px;
+	font-size: 18px;
+	width: 70%;
+}
+
+.centre3 {
+	display: block
+	padding-top: 2px;
+	margin-top:10px;
+	margin-left: 175px;
+	font-size:17px;
+}
+
+.centre4 {
+	display: block
+	padding-top: 2px;
+	margin-top:10px;
+	margin-right: 175px;
+	font-size:17px;
+}
+
+.whatever {
+	background-image: url("https://cdn.vox-cdn.com/uploads/chorus_asset/file/6466217/fixed-google-logo-font.png");
+}
+
+
